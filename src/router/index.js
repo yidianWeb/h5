@@ -22,6 +22,7 @@ export default new Router({
          name: 'Index',
          component: Index
        },
+       
        {
          path: '/design',
          name: 'design',
