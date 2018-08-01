@@ -13,7 +13,7 @@
 
 <script>
 	import listIcon from './index/listicon'
-//	import BScroll from 'better-scroll'
+//	import BScroll from 'better-scroll' ss 
 	import topLogo from './index/topLogo'
 	import { CacheUtil } from '../lib/util2'
 	import {
