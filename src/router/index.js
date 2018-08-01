@@ -12,6 +12,7 @@ import about from '@/components/about'
 Vue.use(Router)
 Vue.prototype.axios= axios
 
+
 export default new Router({
 	mode:'history',
 	 base: '/h5/',
